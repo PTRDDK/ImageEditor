@@ -1,0 +1,15 @@
+c:\users\piotrek\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+c:\users\piotrek\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+c:\users\piotrek\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+c:\users\piotrek\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+c:\users\piotrek\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+c:\users\piotrek\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+c:\users\piotrek\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+c:\users\piotrek\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+c:\users\piotrek\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+c:\users\piotrek\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Imaging.dll
+c:\users\piotrek\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.dll
+c:\users\piotrek\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Math.dll
+c:\users\piotrek\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Imaging.xml
+c:\users\piotrek\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.xml
+c:\users\piotrek\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Math.xml
